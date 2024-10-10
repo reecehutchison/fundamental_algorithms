@@ -1,0 +1,25 @@
+        
+         Practice yourself, for heaven's sake, in little things;
+                                  and thence proceed to greater.
+                                  
+            -- EPICTETUS, Discourses
+
+
+1.1 Algorithms
+
+    The best way to understand a proposed algorithm is to work through
+    it with a pen and paper.
+    
+    Five features of an algorithm:
+        1. Finiteness    - An algorithm must terminate after a finite number
+                           of steps.
+        2. Definiteness  - Each step of an algorithm must be precisely
+                          defined. Needs to be specific.
+        3. Input         - An algorithm has zero, or more inputs.
+        4. Output        - An algorithm will always have one, or more outputs.
+        5. Effectiveness - Generally, an algorithm is expected to be effective;
+                           meaning, that they must be possible to execute by
+                           someone in a finite amount of time on pen and paper.
+                           
+    An algorithm is like a cook book, if you take certain ingredients, follow
+    specific instructions with them, you will get something to eat out of it.
